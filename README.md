@@ -156,4 +156,12 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
