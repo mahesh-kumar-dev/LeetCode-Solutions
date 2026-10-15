@@ -28,7 +28,7 @@ My goal is to solve problems consistently, understand the underlying logic, anal
 | Hard Problems | Update with your count |
 | Programming Language | Java |
 
-🔗 **My LeetCode Profile:** [Visit My Profile](YOUR_LEETCODE_PROFILE_URL)
+🔗 **My LeetCode Profile:** [Visit My Profile](https://leetcode.com/u/mahesh_kumar_dev/)
 
 ## 🧠 Topics Covered
 
