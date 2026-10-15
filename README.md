@@ -142,6 +142,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
