@@ -47,34 +47,7 @@ My goal is to solve problems consistently, understand the underlying logic, anal
 | Graphs | BFS, DFS, graph traversal |
 | Dynamic Programming | Memoization and tabulation |
 
-## 🗂️ Repository Structure
 
-```text
-LeetCode-Solutions/
-│
-├── README.md
-│
-├── Arrays/
-│   ├── TwoSum.java
-│   └── BestTimeToBuyAndSellStock.java
-│
-├── Strings/
-│   └── ValidPalindrome.java
-│
-├── LinkedList/
-│   └── ReverseLinkedList.java
-│
-├── Stack/
-│   └── ValidParentheses.java
-│
-├── BinarySearch/
-│   └── BinarySearch.java
-│
-└── Trees/
-    └── BinaryTreeTraversal.java
-```
-
-*The directory and file names above are examples. Adjust them to match your actual repository.*
 
 ## 📝 Solutions Overview
 
@@ -91,13 +64,13 @@ Each solution aims to include:
 
 | # | Problem | Difficulty | Topic | Solution |
 |---:|---|---|---|---|
-| 1 | Two Sum | Easy | Array / Hashing | [View](./Arrays/TwoSum.java) |
-| 121 | Best Time to Buy and Sell Stock | Easy | Array | [View](./Arrays/BestTimeToBuyAndSellStock.java) |
-| 125 | Valid Palindrome | Easy | String / Two Pointers | [View](./Strings/ValidPalindrome.java) |
-| 20 | Valid Parentheses | Easy | Stack | [View](./Stack/ValidParentheses.java) |
-| 206 | Reverse Linked List | Easy | Linked List | [View](./LinkedList/ReverseLinkedList.java) |
+| 1 | Two Sum | Easy | Array  | [View](.0001-two-sum.java) |
+| 2 | Add Two Numbers | Medium | Linked List | [View](.0002-add-two-sum.java) |
+| 7 | Reverse Integer | Medium | Integer | [View](.0007-reverse-integer.java) |
+| 14 | Longest Common Prefix | Easy | String | [View](.0014-longest-common-prefix.java) |
+ 
 
-*These are sample entries. Replace them with problems you have actually solved and files that exist in your repository.*
+
 
 ## 📈 My Problem-Solving Strategy
 
