@@ -64,10 +64,10 @@ Each solution aims to include:
 
 | # | Problem | Difficulty | Topic | Solution |
 |---:|---|---|---|---|
-| 1 | Two Sum | Easy | Array  | [View](.0001-two-sum/0001-two-sum.java) |
-| 2 | Add Two Numbers | Medium | Linked List | [View](.0002-add-two-sum/0002-add-two-sum.java) |
-| 7 | Reverse Integer | Medium | Integer | [View](.0007-reverse-integer/0007-reverse-integer.java) |
-| 14 | Longest Common Prefix | Easy | String | [View](.0014-longest-common-prefix/0014-longest-common-prefix.java) |
+| 1 | Two Sum | Easy | Array  | [View](/0001-two-sum/0001-two-sum.java) |
+| 2 | Add Two Numbers | Medium | Linked List | [View](/0002-add-two-sum/0002-add-two-sum.java) |
+| 7 | Reverse Integer | Medium | Integer | [View](/0007-reverse-integer/0007-reverse-integer.java) |
+| 14 | Longest Common Prefix | Easy | String | [View](/0014-longest-common-prefix/0014-longest-common-prefix.java) |
  
 
 
