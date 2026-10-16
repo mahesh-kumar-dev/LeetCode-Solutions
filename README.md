@@ -109,6 +109,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +127,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Trie
 |  |
