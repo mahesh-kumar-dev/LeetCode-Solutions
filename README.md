@@ -129,6 +129,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -148,4 +149,12 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
