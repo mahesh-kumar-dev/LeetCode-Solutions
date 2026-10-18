@@ -114,6 +114,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
