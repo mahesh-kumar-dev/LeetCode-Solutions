@@ -106,6 +106,7 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 | [0004-median-of-two-sorted-arrays](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,4 +165,5 @@ I believe consistent practice, strong fundamentals, and clear reasoning are the 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mahesh-kumar-dev/LeetCode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
